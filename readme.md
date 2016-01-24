@@ -15,11 +15,10 @@
 - Resources
 
 ## In class:
-In class we went over
+In class we went over variables, scope, conditionals, functions, and loops. We also talked a little bit about git.
 
 ### Variables
 Initialize a Variable
-
 
 [Eloquent javascript Chapter 1 (again)](http://eloquentjavascript.net/01_values.html#p_X4IS2nLCLI)
 [Video](https://youtu.be/Bn_B3T_Vbxs?list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA&t=151)
@@ -29,10 +28,13 @@ Initialize a Variable
 [Codecadamy introduction to javascript unit 1](https://www.codecademy.com/learn/javascript)
 
 ### Functions
-
-[Codecadamy unit 2](https://www.codecademy.com/courses/javascript-beginner-en-6LzGd/0/1?curriculum_id=506324b3a7dffd00020bf661)
+- [functions](https://www.youtube.com/watch?v=wRHAitGzBrg&index=16&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA)
+- [functions and arguments](https://www.youtube.com/watch?v=zkc417YapfE&index=17&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA)
+- [Codecadamy unit 2](https://www.codecademy.com/courses/javascript-beginner-en-6LzGd/0/1?curriculum_id=506324b3a7dffd00020bf661)
 
 ### Loops
+- [for and while](https://www.youtube.com/watch?v=cnRD9o6odjk&index=14&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA)
+- [nested loops](https://www.youtube.com/watch?v=1c1_TMdf8b8&index=15&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA)
 
 ## Assignment
 1. You need to [refactor](https://en.wikipedia.org/wiki/Code_refactoring) your first assignment to use variables, functions and loops. People who missed the first class are expected to be caught up by the time this assignment is due.
